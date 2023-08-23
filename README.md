@@ -42,4 +42,6 @@ I'd love to connect with you! You can find me on the following social networks:
 
 Feel free to reach out if you have any questions or if you're interested in learning together with me in the exciting world of these technologies. Thanks for visiting my GitHub profile! 😊
 
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=fanavar&langs_count=8](https://github-readme-stats.vercel.app/api?username=MargaritaNunez&theme=buefy&show_icons=true" ))
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanavar&langs_count=8)
