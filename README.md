@@ -18,6 +18,10 @@ i have practical experience in Machine Learning, including conducting tests with
 
 - **HTML:** I have experience in web development using HTML, enabling me to create simple and effective web pages.
 
+- **Languages:** Native Spanish, Intermediate English, Intermediate Portuguese.
+
+- **SAP:** Certified by SAP University Alliances
+  
 ### Academic Background 📚
 
 - **Computer Science Engineer:** [Universidad del Bío-Bío](https://www.ubiobio.cl/w/)
