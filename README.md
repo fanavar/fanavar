@@ -35,4 +35,5 @@ I'd love to connect with you! You can find me on the following social networks:
 - [Spotify](https://open.spotify.com/show/6U6drJrYywkYcF9D18hzHM?si=8e4b255fd39d4fb5&nd=1)
 
 Feel free to reach out if you have any questions or if you're interested in learning together with me in the exciting world of these technologies. Thanks for visiting my GitHub profile! 😊
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanavar&langs_count=8)
