@@ -27,7 +27,6 @@ i have practical experience in Machine Learning, including conducting tests with
 I'd love to connect with you! You can find me on the following social networks:
 
 - [LinkedIn](https://www.linkedin.com/in/fabi%C3%A1n-navarro-5745b8227/)
-- [Gmail](contactofnavarro@gmail.com)
 - [Instagram](https://www.instagram.com/fabian.navarro7/)
 - [Spotify](https://open.spotify.com/show/6U6drJrYywkYcF9D18hzHM?si=8e4b255fd39d4fb5&nd=1)
 
