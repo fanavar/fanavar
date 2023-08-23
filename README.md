@@ -20,7 +20,13 @@ i have practical experience in Machine Learning, including conducting tests with
 
 - **Languages:** Native Spanish, Intermediate English, Intermediate Portuguese.
 
-- **SAP:** Certified by SAP University Alliances
+- **SAP:** Certified by SAP University Alliances.
+  
+-  **Leadership:** Effective leadership skills.
+
+- **Critical Thinking:** Strong critical thinking abilities.
+
+- **Disruption:** Proficient in disruptive innovation strategies.
   
 ### Academic Background 📚
 
