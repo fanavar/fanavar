@@ -1,9 +1,9 @@
 
 
 # Hello, I'm Fabián Navarro! 👋🏼
-## Android Developer Trainee 📱 | Computer Science Engineer 👨‍💻 | Java ☕ | Kotlin 🎯 | SQL 🗃️ | Python 🐍 | Machine Learning 🤖 | HTML 🌐 | Personal Development with Neuro-Linguistic Programming 🧠💬
+## Android Developer 📱 | Computer Science Engineer 👨‍💻 | Java ☕ | Kotlin 🎯 | SQL 🗃️ | Python 🐍 | Machine Learning 🤖 | HTML 🌐 | Personal Development with Neuro-Linguistic Programming 🧠💬
 
-Welcome to my GitHub profile! I'm a passionate Android Developer Trainee with a background in Computer Science Engineering and experience in a variety of technologies, including Java, Kotlin, SQL, Python, Machine Learning, and HTML. Here, you'll find a collection of projects that reflect my enthusiasm for programming and my commitment to continuous learning.
+Welcome to my GitHub profile! I'm a passionate Android Developer with a background in Computer Science Engineering and experience in a variety of technologies, including Java, Kotlin, SQL, Python, Machine Learning, and HTML. Here, you'll find a collection of projects that reflect my enthusiasm for programming and my commitment to continuous learning.
 
 ### My Skills 🚀
 
