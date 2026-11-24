@@ -43,6 +43,34 @@ I iterate by reading real conversations, finding where the bot failed, changing 
 
 ---
 
+## University and research projects
+
+### EIT Visual App · Universidad de Concepción
+
+Android app to view electrical impedance tomography (EIT) images of respiratory signals. I developed it for project **VIU23P0069** at Universidad de Concepción, June to September 2024.
+
+<p align="center">
+  <img src="assets/eit-splash.png" alt="EIT Visual App splash screen" width="30%">
+  <img src="assets/eit-login.png" alt="EIT Visual App sign-in screen" width="30%">
+  <img src="assets/eit-viewer.png" alt="EIT Visual App showing a reconstructed EIT image" width="30%">
+</p>
+
+- **The idea:** reconstruct each image on a computer, publish it to the cloud and follow it from a phone as new frames arrive.
+- **My part:** user requirements, technology proposal, the Android app, the Firebase integration, and MATLAB and Python scripts to automate the flow.
+- **Key decision:** publish reconstructed images, because uploading raw data point by point exceeded the free Firebase quota.
+
+`Kotlin` `Android` `Firebase` `MATLAB` `EIDORS` `Python`
+
+<sub>The source code is private.</sub>
+
+### Kaisushi · Degree project
+
+Web system for a sushi restaurant that takes an order from the cart to the kitchen screen. Built with **Gustavo Sobarzo** as our degree project at Universidad del Bío-Bío.
+
+`Python` `Django` `PostgreSQL` `Bootstrap`
+
+---
+
 ## More systems I've built with AI
 
 These run privately; the source code is not public.
