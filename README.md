@@ -1,56 +1,67 @@
+# Fabián Navarro
 
+### I build AI systems that run a real business.
 
-# Hello, I'm Fabián Navarro! 👋🏼
-## Android Developer 📱 | Computer Science Engineer 👨‍💻 | Java ☕ | Kotlin 🎯 | SQL 🗃️ | Python 🐍 | Machine Learning 🤖 | HTML 🌐 | Personal Development with Neuro-Linguistic Programming 🧠💬
+Civil Computer Engineer (*Ingeniero Civil en Informática*) and founder of [Soultech Chile](https://soultech.cl), a laptop repair business in Chile. I've worked with generative AI since its early ChatGPT days. Today I use it in two ways: inside the products I run, and as my daily tool for building them.
 
-Welcome to my GitHub profile! I'm a passionate Android Developer with a background in Computer Science Engineering and experience in a variety of technologies, including Java, Kotlin, SQL, Python, Machine Learning, and HTML. Here, you'll find a collection of projects that reflect my enthusiasm for programming and my commitment to continuous learning.
+[**soultech.cl**](https://soultech.cl) · [**LinkedIn**](https://www.linkedin.com/in/fabi%C3%A1n-navarro-5745b8227/)
 
-### Featured Project ⚡
+---
 
-#### [Soultech Chile](https://soultech.cl) · Business website + AI WhatsApp bot
+## Featured: Soultech Chile
 
 <a href="https://github.com/fanavar/SoultechChile"><img src="https://raw.githubusercontent.com/fanavar/SoultechChile/main/docs/capturas/01-hero.png" alt="Soultech Chile website" width="100%"></a>
 
-Live website for my laptop repair business in Chile. Visitors pick a problem or build an upgrade plan, and the site opens WhatsApp with a pre-filled message that an AI bot answers and qualifies.
+A live sales system: the website starts the conversation, an AI agent diagnoses and quotes on WhatsApp, and I close the deal.
 
-`HTML` `CSS` `JavaScript` `GitHub Pages` `Cloudflare` `n8n` `WhatsApp Cloud API` `Claude API`
+```mermaid
+flowchart LR
+  A[Website or Meta ad] --> B[WhatsApp Cloud API]
+  B --> C[n8n on my own VPS]
+  C <--> D[Claude: chat and vision]
+  C <--> E[Conversation memory]
+  C --> F[Qualified lead alert]
+  F --> G[I close the sale]
+```
 
-[**Live site**](https://soultech.cl) · [**Code and screenshots**](https://github.com/fanavar/SoultechChile)
+**In production since July 2026** · 460+ WhatsApp contacts · 5,500+ logged messages · 31 prompt versions
 
-### My Skills 🚀
+| Challenge | How I solved it |
+|---|---|
+| Customers don't know their specs | Vision reads a photo of Task Manager and extracts RAM, disk and CPU |
+| The model misread some values | Told it where to read each field, and to answer "not visible" instead of guessing |
+| Bots forget the conversation | Each reply includes the customer's recent history |
+| Leads go cold | Once qualified, I get an alert with a summary |
+| Abuse and prompt injection | Rate limits, message truncation, token caps and security rules in the prompt |
+| Cost per conversation | A small, fast model (Claude Haiku) on self-hosted infrastructure |
 
-- **Android Development:** I'm in the process of learning and developing Android applications, using both Java and Kotlin. I'm excited to grow as an Android developer.
+I iterate by reading real conversations, finding where the bot failed, changing the prompt and testing again.
 
-- **SQL:** I have knowledge in SQL database management, allowing me to design and maintain efficient database systems.
+**Stack:** `Claude API` `n8n` `WhatsApp Cloud API` `Docker` `Caddy` `Linux` `Cloudflare` `HTML` `CSS` `JavaScript`
 
-- **Python:** I've used Python in automation projects and data analysis.
+[**Visit the site**](https://soultech.cl) · [**Website code and screenshots**](https://github.com/fanavar/SoultechChile)
 
-- **Machine Learning:** I'm interested in machine learning and am 
-i have practical experience in Machine Learning, including conducting tests with various algorithms to determine their suitability for an specific project. Some of the algorithms I've worked with include: Linear Regression, Decision Trees and Time Series Forecasting.
+---
 
-- **HTML:** I have experience in web development using HTML, enabling me to create simple and effective web pages.
+## More systems I've built with AI
 
-- **Languages:** Native Spanish, Intermediate English, Intermediate Portuguese.
+These run privately; the source code is not public.
 
-- **SAP:** Certified by SAP University Alliances.
-  
--  **Leadership:** Effective leadership skills.
+| Project | What it does | Stack |
+|---|---|---|
+| **Garmin Health OS** | Sends a daily training report to Telegram. Python does all the math; Claude only interprets the results. | Python, pandas, SQLite, Streamlit, Claude API |
+| **Financial Intelligence OS** | Local app that separates personal and business finances, with traceable figures and 78 automated tests. | Python, FastAPI, SQLite, JavaScript |
+| **Local business prospector** | Finds local businesses from open map data and prepares personalized samples. Every message is sent by a person. | Python, OpenStreetMap, Claude Code |
 
-- **Critical Thinking:** Strong critical thinking abilities.
+## How I work with AI
 
-- **Disruption:** Proficient in disruptive innovation strategies.
-  
-### Academic Background 📚
+- **Calculations belong in code.** The model interprets; it doesn't do the math.
+- **People make the final call.** AI qualifies and drafts; a person closes and sends.
+- **Real failures drive changes.** I test against what customers actually wrote.
+- **Privacy by design.** Sensitive data stays local whenever it can.
 
-- **Computer Science Engineer:** [Universidad del Bío-Bío](https://www.ubiobio.cl/w/)
+## Background
 
-### Contact 📬
+**Ingeniero Civil en Informática** (Civil Computer Engineer), [Universidad del Bío-Bío](https://www.ubiobio.cl/w/) · Android development with Kotlin and Java · Python · SQL · SAP University Alliances certification
 
-I'd love to connect with you! You can find me on the following social networks:
-
-- [LinkedIn](https://www.linkedin.com/in/fabi%C3%A1n-navarro-5745b8227/)
-- [Spotify](https://open.spotify.com/show/6U6drJrYywkYcF9D18hzHM?si=8e4b255fd39d4fb5&nd=1)
-
-Feel free to reach out if you have any questions or if you're interested in learning together with me in the exciting world of these technologies. Thanks for visiting my GitHub profile! 😊
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanavar&langs_count=8)
+Spanish (native) · English (intermediate) · Portuguese (intermediate)
