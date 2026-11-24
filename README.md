@@ -15,7 +15,7 @@ Civil Computer Engineer (*Ingeniero Civil en Informática*) and founder of [Soul
 A live sales system: the website starts the conversation, an AI agent diagnoses and quotes on WhatsApp, and I close the deal.
 
 ```mermaid
-flowchart LR
+flowchart TD
   A[Website or Meta ad] --> B[WhatsApp Cloud API]
   B --> C[n8n on my own VPS]
   C <--> D[Claude: chat and vision]
