@@ -18,9 +18,9 @@ A live sales system: the website starts the conversation, an AI agent diagnoses 
 flowchart TD
   A[Website or Meta ad] --> B[WhatsApp Cloud API]
   B --> C[n8n on my own VPS]
+  C --> F[Qualified lead alert]
   C <--> D[Claude: chat and vision]
   C <--> E[Conversation memory]
-  C --> F[Qualified lead alert]
   F --> G[I close the sale]
 ```
 
