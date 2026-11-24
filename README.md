@@ -5,6 +5,18 @@
 
 Welcome to my GitHub profile! I'm a passionate Android Developer with a background in Computer Science Engineering and experience in a variety of technologies, including Java, Kotlin, SQL, Python, Machine Learning, and HTML. Here, you'll find a collection of projects that reflect my enthusiasm for programming and my commitment to continuous learning.
 
+### Featured Project ⚡
+
+#### [Soultech Chile](https://soultech.cl) · Business website + AI WhatsApp bot
+
+<a href="https://github.com/fanavar/SoultechChile"><img src="https://raw.githubusercontent.com/fanavar/SoultechChile/main/docs/capturas/01-hero.png" alt="Soultech Chile website" width="100%"></a>
+
+Live website for my laptop repair business in Chile. Visitors pick a problem or build an upgrade plan, and the site opens WhatsApp with a pre-filled message that an AI bot answers and qualifies.
+
+`HTML` `CSS` `JavaScript` `GitHub Pages` `Cloudflare` `n8n` `WhatsApp Cloud API` `Claude API`
+
+[**Live site**](https://soultech.cl) · [**Code and screenshots**](https://github.com/fanavar/SoultechChile)
+
 ### My Skills 🚀
 
 - **Android Development:** I'm in the process of learning and developing Android applications, using both Java and Kotlin. I'm excited to grow as an Android developer.
